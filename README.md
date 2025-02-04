@@ -13,7 +13,7 @@ I strive to teach others about cybersecurity and IT; I am not a fan of the influ
   
 <h2>📺 Popular YouTube Videos</h2>
 
-- [coming soon](hxxps[:]//www.youtube.com/watch?v=a83ASGn_V_s)
+- [LearnToHomeLab](https://www.youtube.com/@learntohomelab)
 
 
 <h2> 🤳 Connect with me:</h2>
