@@ -21,7 +21,7 @@ I strive to teach others about cybersecurity and IT; I am not a fan of the influ
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[youtube]: www.youtube.com/@LearntoHomelab
+[youtube]: https://www.youtube.com/@learntohomelab
 [linkedin]: www.linkedin.com/in/abrampeterson
 
 <!--
