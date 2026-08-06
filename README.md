@@ -13,6 +13,9 @@ I strive to teach others about cybersecurity and IT; I am not a fan of the influ
 - <b>Teaching others how to get started with a HomeLab environment </b>
   - [My Teaching Website LearnToHomeLab](https://learntohomelab.com/)
   - [The website with my full-stack coding projects](https://abrampeterson.github.io/Full-Stack-Projects-Portfolio/)
+ 
+<h2>My Coding Projects</h2>
+
   
 <h2>📺 Popular YouTube Videos</h2>
 
