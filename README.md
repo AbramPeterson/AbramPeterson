@@ -28,7 +28,7 @@ I strive to teach others about cybersecurity and IT; I am not a fan of the influ
 [linkedin]: www.linkedin.com/in/abrampeterson
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AbramPeterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
