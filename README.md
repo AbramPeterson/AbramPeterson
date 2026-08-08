@@ -1,6 +1,6 @@
 <h1>Hi, I'm Abram! 
 <br/>
-  <a href="https://github.com/AbramPeterson/AbramPeterson">SOC Analyst</a>,<a href="https://github.com/AbramPeterson/AbramPeterson"> Full-Stack Developer</a>,<a href="https://www.linkedin.com/in/abrampeterson/"> Cybersecurity Professional</a>,<a href="https://learntohomelab.com/"> Content Publisher</a></h1>
+  <a href="https://github.com/AbramPeterson/AbramPeterson">SOC Analyst</a>,<a href="https://github.com/AbramPeterson/AbramPeterson"> Full-Stack Developer</a>,<a href="https://www.linkedin.com/in/abrampeterson/"> Cybersecurity Professional</a>,<a href="https://learntohomelab.com/"> Content Creator</a></h1>
 
 <h2> About me and why you may want to follow me! </h2>
 As a seasoned SOC Analyst, I specialize in monitoring systems and networks for unauthorized activities, analyzing network data, and researching cyber threats. My background includes network monitoring, risk assessments, and ensuring compliance with industry-standard security frameworks such as NIST SP 800 53, JSIG, and NISPOM. As a Network Engineer, I install, configure, and maintain LANs, WANs, and various network devices, focusing on high availability and security. I hold an MS in Cybersecurity and Information Assurance and a BS in Cybersecurity. My skill set includes Linux, virtualization, networking, and security tools, with hands-on experience in homelab projects and active participation in cybersecurity learning activities.  
@@ -12,23 +12,27 @@ I strive to teach others about cybersecurity and IT; I am not a fan of the influ
 
 - <b>Teaching others how to get started with a HomeLab environment </b>
   - [My Teaching Website LearnToHomeLab](https://learntohomelab.com/)
-  - [The website with my full-stack coding projects](https://abrampeterson.github.io/Full-Stack-Projects-Portfolio/)
  
-<h2>My Coding Projects</h2>
+<h2>My Coding Skill and Projects</h2>
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
   
 <h2>📺 Popular YouTube Videos</h2>
 
-- [LearnToHomeLab](https://www.youtube.com/@learntohomelab)
+<!-- BEGIN YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[youtube]: https://www.youtube.com/@learntohomelab
-[linkedin]: www.linkedin.com/in/abrampeterson
+[![youtube channel link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/@learntohomelab](https://www.youtube.com/@learntohomelab))
+[![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com/invite/6MsHSJWZpH](https://discord.com/invite/6MsHSJWZpH))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrampeterson/)
 
 <!--
 **AbramPeterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
