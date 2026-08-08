@@ -30,10 +30,9 @@ I strive to teach others about cybersecurity and IT; I am not a fan of the influ
 
 <h2> 🤳 Connect with me:</h2>
 
-[![youtube channel link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/@learntohomelab](https://www.youtube.com/@learntohomelab))
-[![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com/invite/6MsHSJWZpH](https://discord.com/invite/6MsHSJWZpH))
+[![youtube channel link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@learntohomelab)
+[![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/6MsHSJWZpH)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrampeterson/)
-
 <!--
 **AbramPeterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
